@@ -1,0 +1,66 @@
+body{
+  background-color: #321f28;
+  color: white;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+}
+
+.container-fluid{
+  padding:2% 10% 4%;
+}
+
+.navigation{
+  padding-left: 0;
+
+}
+
+.navigation-list{
+  text-align: left;
+  font-size: 1.3rem;
+  margin-right: 10px;
+}
+
+.middle{
+  text-align: left;
+  font-size: 1.5rem;
+}
+
+.author{
+  padding:1% 10% 3%;
+}
+
+p{
+  padding:0.5% 0;
+}
+
+h1,h2{
+  font-weight: bold;
+}
+
+.footer{
+  color: black;
+  background-color: white;
+  padding: 3% 10%;
+}
+
+.footer-content{
+  padding: 0 1%;
+  color: black;
+}
+
+li{
+  padding:1.5% 0;
+}
+
+hr{
+  background-color: white;
+}
+
+.post-links{
+  color: white;
+  text-decoration: none;
+}
+
+.post-links:hover{
+  color: white;
+}

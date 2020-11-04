@@ -1,0 +1,34 @@
+---
+layout: post
+author:   "Brian Greene, Erin Gregory, Maria Ladias and Reid Catlett"
+title: "Defining the future: The talks of TED Salon: Dell Technologies"
+date: 2020-10-29
+---
+
+In a time that feels unsettled and uncertain, technology and those who create it will play a crucial role in what’s coming next. How do we define that future, as opposed to letting it define us? At a special TED Salon held as part of the Dell Technologies World conference and hosted by TED’s Simone Ross, four speakers shared ideas for building a future where tech and humanity are combined in a more active, deliberate and thoughtful way.
+
+The talks in brief:
+
+Genevieve Bell, ethical AI expert
+
+Big idea: To create a sustainable, efficient and safe future for artificial intelligence systems, we need to ask questions that contextualize the history of technology and create possibilities for the next generation of critical thinkers to build upon it.
+
+How? Making a connection between AI and the built world is a hard story to tell, but that’s exactly what Genevieve Bell and her team at 3A Institute are doing: adding to the rich legacy of AI systems, while establishing a new branch of engineering that can sustainably bring cyber-physical systems and AI to scale going forward. “To build on that legacy and our sense of purpose, I think we need a clear framework for asking questions about the future, questions for which there aren’t ready or easy answers,” Bell says. She shares six nuanced questions that frame her approach: Is the system autonomous? Does the system have agency? How do we think about assurance (is it safe and functioning)? How do we interface with it? What will be the indicators that show it is working well? And finally, what is its intent? With these questions, we can broaden our understanding of the systems we create and how they will function in the years to come.
+
+Amanda Little, food journalist
+
+Big idea: To build a robust, resilient and diverse food future in the face of complex challenges, we need a “third way” forward — blending the best of traditional agriculture with cutting-edge new technologies.
+
+How? COVID-19 has simultaneously paralyzed already vulnerable global food systems and ushered in food shortages — despite a surplus of technological advances. How will we continue to feed a growing population? Amanda Little has an idea: “Our challenge is to borrow from the wisdom of the ages and from our most advanced science to [a] third way: one that allows us to improve and scale our harvest while restoring, rather than degrading the underlying land of life.” Amid increasingly complex disruptions like climate change, this “third way” provides a roadmap to food security that marries old agricultural production with new, innovative farming practices — like using robots to deploy fertilizer on crop fields with sniper-like precision, eating lab-grown meats and building aeroponic farms. By nixing antiquated supply chains and producing food in a scalable, sustainable and adaptable way, Little shows just how bright our food future might be. Watch the full talk.
+
+Mainak Mazumdar, data scientist
+
+Big idea: When the pursuit of using AI to make fair and equitable decisions fails, blame the data — not the algorithms.
+
+Why? The future economy won’t be built by factories and people, but by computers and algorithms — for better or for worse. To make AI possible for humanity and society, we need an urgent reset in three major areas: data infrastructure, data quality and data literacy. Together, they hold the key to ethical decision-making in the age of AI. Mazumdar lists how less-than-quality data in examples such as the 2020 US Census and marketing research could lead to poor results in trying to reach and help specific demographics. Right now, AI is only reinforcing and accelerating our bias at speed and scale, with societal implications in its wake. But it doesn’t need to be that way. Instead of racing to build new algorithms, our mission should be to build a better data infrastructure that makes ethical AI possible.
+
+Paul D. Miller aka DJ Spooky, multimedia musician
+
+Big idea: Modern computing is founded on patterns, so could you translate the patterns of code and data into music? If so, what would the internet sound like?
+
+How? Cultural achievements throughout human history, like music and architecture, are based on pattern recognition, math and the need to organize information — and the internet is no different. Paul D. Miller aka DJ Spooky gives a tour of how the internet came to be, from the conception of software by Ada Lovelace in the early 1800s to the development of early computers catalyzed by World War II and the birth of the internet beginning in 1969. Today, millions of devices are plugged into the internet, sending data zooming around the world. By transforming the internet’s router connections and data sets into sounds, beats and tempos, Miller introduces “Quantopia,” a portrait of the internet in sound. A special auditory and visual experience, this internet soundscape reveals the patterns that connect us all.

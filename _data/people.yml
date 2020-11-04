@@ -1,0 +1,20 @@
+#Brian Greene, Erin Gregory, Maria Ladias and Reid Catlett
+
+- name: "Brian Greene"
+  occupation: "Physicist, Mathematician and String Theorist"
+  description: "Brian Randolph Greene is an American theoretical physicist, mathematician, and string theorist.
+                He has been a professor at Columbia University since 1996 and chairman of the World Science Festival since co-founding it in 2008.
+                Greene has worked on mirror symmetry, relating two different Calabi–Yau manifolds."
+
+- name: "Erin Gregory"
+  occupation: "Associate Editorial Producer in TEDx,New York, NY, United States"
+  description: "Young Enterpreneur working on her writing skills in TEDx."
+
+- name: "Maria Ladias"
+  occupation: "Digital Project Manager at TED Conferences"
+  description: "Maria Ladias is a Brooklyn based artist and Digital Content Manager at TED Conferences.
+                She obtained her BFA in Fine Arts from The School of Visual Arts. "
+
+- name: "Reid Catlett"
+  occupation: "Digital Projects Editorin TEDx,New York, NY, United States"
+  description: "Young Enterpreneur i=working in TEDx to improve her Projects Based Skills."
